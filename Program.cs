@@ -1,15 +1,30 @@
 ﻿// See https://aka.ms/new-console-template for more information
-// https://learn.microsoft.com/en-us/training/modules/csharp-for/3-challenge
 
-string[] names = { "Alex", "Eddie", "David", "Michael" };
-for (int i = names.Length - 1; i >= 0; i--)
+/*
+ * Do while example use case
+Random random = new Random();
+int current = 0;
+
+do
 {
-    if (names[i] == "Eddie") names[i] = "Steady";
-    Console.WriteLine(names[i]);
+    current = random.Next(1, 11);
+    Console.WriteLine(current);
+} while (current != 7);
+
+*/
+
+/*
+ * While use case
+Random randomNumber = new Random();
+int current = randomNumber.Next(1, 11);
+
+while (current >= 3)
+{
+    Console.WriteLine(current);
+    current = randomNumber.Next(1, 11);
 }
 
-for (int i = 0; i < names.Length; i++)
-{
-    int displayNum = i + 1;
-    Console.WriteLine(displayNum + ": " + names[i]);
-}
+Console.WriteLine($"Last number: {current}");
+*/
+
+// https://learn.microsoft.com/en-us/training/modules/csharp-do-while/2-exercise-do-while-continue

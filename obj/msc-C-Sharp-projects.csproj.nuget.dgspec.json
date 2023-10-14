@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aidan\\Documents\\Repos\\msc-C-Sharp-projects\\msc-C-Sharp-projects.csproj": {}
+    "C:\\Users\\Aidan\\Repos\\msc-C-Sharp-projects\\msc-C-Sharp-projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aidan\\Documents\\Repos\\msc-C-Sharp-projects\\msc-C-Sharp-projects.csproj": {
+    "C:\\Users\\Aidan\\Repos\\msc-C-Sharp-projects\\msc-C-Sharp-projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aidan\\Documents\\Repos\\msc-C-Sharp-projects\\msc-C-Sharp-projects.csproj",
+        "projectUniqueName": "C:\\Users\\Aidan\\Repos\\msc-C-Sharp-projects\\msc-C-Sharp-projects.csproj",
         "projectName": "msc-C-Sharp-projects",
-        "projectPath": "C:\\Users\\aidan\\Documents\\Repos\\msc-C-Sharp-projects\\msc-C-Sharp-projects.csproj",
-        "packagesPath": "C:\\Users\\aidan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aidan\\Documents\\Repos\\msc-C-Sharp-projects\\obj\\",
+        "projectPath": "C:\\Users\\Aidan\\Repos\\msc-C-Sharp-projects\\msc-C-Sharp-projects.csproj",
+        "packagesPath": "C:\\Users\\Aidan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aidan\\Repos\\msc-C-Sharp-projects\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\aidan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aidan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Aidan\\AppData\\Roaming\\NuGet": {}
         },
         "frameworks": {
           "net7.0": {
