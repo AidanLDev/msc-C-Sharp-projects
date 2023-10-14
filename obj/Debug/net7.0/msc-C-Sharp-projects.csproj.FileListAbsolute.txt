@@ -12,3 +12,17 @@ C:\Users\Aidan\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\refint\msc-C-Sharp-pr
 C:\Users\Aidan\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\msc-C-Sharp-projects.pdb
 C:\Users\Aidan\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\msc-C-Sharp-projects.genruntimeconfig.cache
 C:\Users\Aidan\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\ref\msc-C-Sharp-projects.dll
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\bin\Debug\net7.0\msc-C-Sharp-projects.exe
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\bin\Debug\net7.0\msc-C-Sharp-projects.deps.json
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\bin\Debug\net7.0\msc-C-Sharp-projects.runtimeconfig.json
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\bin\Debug\net7.0\msc-C-Sharp-projects.dll
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\bin\Debug\net7.0\msc-C-Sharp-projects.pdb
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\msc-C-Sharp-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\msc-C-Sharp-projects.AssemblyInfoInputs.cache
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\msc-C-Sharp-projects.AssemblyInfo.cs
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\msc-C-Sharp-projects.csproj.CoreCompileInputs.cache
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\msc-C-Sharp-projects.dll
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\refint\msc-C-Sharp-projects.dll
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\msc-C-Sharp-projects.pdb
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\msc-C-Sharp-projects.genruntimeconfig.cache
+C:\Users\aidan\Documents\Repos\msc-C-Sharp-projects\obj\Debug\net7.0\ref\msc-C-Sharp-projects.dll
