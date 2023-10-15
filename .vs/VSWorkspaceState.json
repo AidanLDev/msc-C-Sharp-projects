@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\case-statements",
+    "\\FizzBuzz"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\case-statements\\case-statements.cs",
   "PreviewInSolutionExplorer": false
 }
