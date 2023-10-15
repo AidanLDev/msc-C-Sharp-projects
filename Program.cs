@@ -1,1 +1,1 @@
-// https://learn.microsoft.com/en-us/training/modules/csharp-arrays-operations/2-exercise-sort-reverse
+// https://learn.microsoft.com/en-us/training/modules/write-first-c-sharp-method/2-understand-syntax-of-methods
