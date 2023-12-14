@@ -1,1 +1,11 @@
-// https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-6/?WT.mc_id=dotnet-56973-cxa
+using ClassLibrary1;
+
+class Program
+{
+    static void Main()
+    {
+        Character char1 = new Character();
+        char1.Name = "Aidan";
+        Console.WriteLine(char1.Name);
+    }
+}

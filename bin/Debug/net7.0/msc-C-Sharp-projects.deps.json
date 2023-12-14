@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "msc-C-Sharp-projects/1.0.0": {
+        "dependencies": {
+          "ClassLibrary1": "1.0.0"
+        },
         "runtime": {
           "msc-C-Sharp-projects.dll": {}
+        }
+      },
+      "ClassLibrary1/1.0.0": {
+        "runtime": {
+          "ClassLibrary1.dll": {}
         }
       }
     }
   },
   "libraries": {
     "msc-C-Sharp-projects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

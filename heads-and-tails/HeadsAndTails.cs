@@ -5,7 +5,7 @@ namespace headsAndTails
 {
     class coinToss
     {
-        static void Main()
+        static void HeadsnTails()
         {
             Random coin = new Random();
             int coinToss = coin.Next(1, 3);
